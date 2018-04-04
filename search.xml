@@ -3,12 +3,14 @@
   <entry>
     <title><![CDATA[第一篇博客]]></title>
     <url>%2F2018%2F04%2F03%2F%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[你好efefefedfsdfsddfsdfsdfsdfdfsdfsdfsdf]]></content>
       <categories>
         <category>学习</category>
       </categories>
       <tags>
-        <tag>java,微服务</tag>
+        <tag>java</tag>
+        <tag>微服务</tag>
+        <tag>数据库</tag>
       </tags>
   </entry>
   <entry>
